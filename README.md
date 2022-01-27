@@ -40,10 +40,6 @@ git clone https://github.com/AAVision/Pjax-Laravel-demo.git
 ```
 
 ```
- php artisan key:generate
-```
-
-```
  php artisan serve
 ```
 
