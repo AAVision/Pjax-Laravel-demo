@@ -52,5 +52,5 @@ Head to 127.0.0.1:8000/
 
 
 ## DEMO
-![alt text](https://raw.githubusercontent.com/AAVision/Pjax-Laravel-demo/master/demo.gif?raw=true)
+![alt text](https://github.com/AAVision/Pjax-Laravel-demo/blob/master/demo.gif?raw=true)
 
